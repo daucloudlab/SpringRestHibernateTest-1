@@ -31,9 +31,7 @@
         <property name="dataSource" ref="dataSource"/>
         <property name="annotatedClasses">
             <list>
-                <value>
-                    kz.tezdet.lessons.models.Employee
-                </value>
+                <value>kz.tezdet.lessons.models.Employee</value>
             </list>
         </property>
         <property name="hibernateProperties">
